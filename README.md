@@ -51,16 +51,4 @@ Se implementaron y evaluaron dos modelos de aprendizaje supervisado:
 - Ambos modelos fueron comparados en términos de precisión y desempeño.
 - Se utilizó la métrica **Cohen's Kappa** para evaluar la concordancia entre las predicciones.
 
----
 
-## 📁 Estructura del Repositorio
-
-
-── README.md
-── 01 - exploración.ipynb
-── 02 - preprocesado.ipynb
-── 03 - modelo 1.ipynb
-── 04 - modelo 2.ipynb
-── 05 - comparación.ipynb
-── 06 - dataset.csv
-── 07 - informe.pdf
