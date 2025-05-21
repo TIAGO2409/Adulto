@@ -29,8 +29,3 @@ El objetivo fue predecir si una persona gana más o menos de **$50,000 al año**
    - **SVM (Support Vector Machine)** (modelo 2): Precisión ~84%
 4. **Comparación de modelos:** Se midió qué tan parecidas eran las predicciones usando **Cohen's Kappa** (resultado: ~0.71).
 5. **Conclusiones y recomendaciones** documentadas en un informe final.
-
----
-
-## 📁 Archivos del repositorio
-
